@@ -1,2 +1,2 @@
 # NotesFromJavaOOPBasics
-My own notes, memos, comments to Java OOP Basics topics
+Notes, memos, comments from Java OOP Basics topics
